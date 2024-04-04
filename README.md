@@ -1,2 +1,5 @@
 # Bee-bot-search-algorithm
-Implementing search algorithms for Bee bot maze game
+
+Implementing DFS and A* search algorithms for the Bee bot to find the exit in a maze.
+
+
